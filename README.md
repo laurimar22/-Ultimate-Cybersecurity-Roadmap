@@ -1,5 +1,5 @@
 <!-- You can replace this URL with your own banner image -->
-![Ultimate Cybersecurity Roadmap Banner](https://raw.githubusercontent.com/shaikhminhaj/your-repo/main/banner.png)
+![Ultimate Cybersecurity Roadmap Banner](https://github.com/minhaj-313/-Ultimate-Cybersecurity-Roadmap/blob/main/ultimate%20cyber%20security%20roadmap%20by%20cyber%20with%20minhaj%20shaikh%20minhaj.png?raw=true)
 
 # 🛡️ Ultimate Cybersecurity Roadmap (2025 Edition)
 
